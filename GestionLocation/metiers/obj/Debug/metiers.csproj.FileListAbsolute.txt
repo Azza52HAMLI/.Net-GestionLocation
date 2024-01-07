@@ -1,0 +1,6 @@
+C:\Users\fahmi\source\repos\GestionLocation\metiers\bin\Debug\metiers.dll
+C:\Users\fahmi\source\repos\GestionLocation\metiers\bin\Debug\metiers.pdb
+C:\Users\fahmi\source\repos\GestionLocation\metiers\obj\Debug\metiers.csproj.AssemblyReference.cache
+C:\Users\fahmi\source\repos\GestionLocation\metiers\obj\Debug\metiers.csproj.CoreCompileInputs.cache
+C:\Users\fahmi\source\repos\GestionLocation\metiers\obj\Debug\metiers.dll
+C:\Users\fahmi\source\repos\GestionLocation\metiers\obj\Debug\metiers.pdb
